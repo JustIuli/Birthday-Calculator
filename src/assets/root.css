@@ -1,0 +1,8 @@
+:root {
+  --color-border-wrong: #ff5959;
+  --color-text-primary: #151515;
+  --color-button-default: #854dff;
+  --color-button-hover: #151515;
+  --color-background-body: hsl(0, 1%, 44%);
+  --color-background-card: hsl(0, 0%, 94%);
+}
